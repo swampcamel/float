@@ -1,0 +1,50 @@
+body {
+  background-image: url("../img/bg.jpg");
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: left top;
+  color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.sidebar {
+  float: right;
+  width: 30%;
+  background-color: rgba(0, 4, 31, 0.5);
+  padding: 2%;
+  height: 600px;
+}
+
+.nav {
+  background-color: rgba(245, 186, 12, 0.5);
+  padding: 2px;
+  padding-left: 10px;
+}
+
+h2 {
+  margin:0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.shows {
+  padding-bottom: 10px;
+}
+
+.main {
+  padding-top: 42px;
+  padding-left: 20px;
+  text-shadow: 2px 2px 1px #000;
+}
+
+img {
+  float: left;
+  width: 300px;
+  height: auto;
+}
